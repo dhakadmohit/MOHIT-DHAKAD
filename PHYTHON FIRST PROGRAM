@@ -1,0 +1,5 @@
+print("TO CALCULATE THE SUM OF TO NUMBER")
+A = input("ENTER YOUR FIRST NUMBER")
+B = input("ENTER YOUR SECOND NUMBER")
+sum = int(A) + int(B)
+print(sum)
